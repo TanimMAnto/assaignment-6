@@ -1,0 +1,57 @@
+
+/* navbar start */
+.nav-title{
+    font-size: 20px;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding-left: 50px;
+}
+.nav-item{
+    font-size: 15px ;
+    color: #FFFFFF;
+}
+
+.nav-btn{
+    background-color: #FACC15;
+    color: #15803D;
+    border-radius: 25px;
+    padding: 12px 20px;
+}
+.navbar-end{
+    padding-right: 50px;
+}
+/* navbar end */
+
+/* banner section start */
+.banner{
+    gap: 15px;
+    padding: 60px 20px;
+    position: relative;
+}
+.banner-title{
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.banner-item{
+    max-width: 600px;
+}
+.banner-img{
+    width: 400px;
+    height: auto;
+}
+.ban-sub{
+    font-size: 12px;
+    color: #1F2937;
+    padding-top: 8px;
+}
+
+
+
+
+
+
+
+
+
+
