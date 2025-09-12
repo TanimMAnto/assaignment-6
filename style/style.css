@@ -83,4 +83,51 @@
 
 
 
+.about-container{
+    align-items: flex-start;
+    justify-content: center;
+    gap: 40px;
+    margin: 0 auto;
+    padding: 60px 20px;
+    max-width: 1090px;
+    display: flex;
+}
+
+
+.about-sec{
+    max-width: 500px;
+}
+
+.about-sec h2{
+    font-size: 30px;
+    margin-bottom: 15px;
+    color: #1F2937;
+}
+
+
+.about-sec p{
+    font-size: 15px;
+    margin-bottom: 15px;
+    color: #1F2937;
+}
+
+
+.about-sec ul{
+    list-style: disc inside;
+    color: #1F2937;
+    line-height: 1.6;
+}
+
+.about-img{
+    max-width: 400px;
+    height: auto;
+}
+
+
+
+
+
+
+
+
 
